@@ -31,25 +31,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/angarciamaing/grupo_9_proyectoIntegrador.git" target="_blank"><b>Funkoshop</b></a></td>
-      <td> Es una página web e-commerce que ofrecerá figuras coleccionables <br> llamadas FUNKO POPS inspiradas en personajes de series, peliculas, <br>                videojuegos, muñecos, anime o personajes famosos. </td>
+      <td><a href="https://github.com/angarciama/funko-shop-back.git"><b>Funko Shop Backend</b></a></td>
+      <td>Backend para una página web e-commerce que ofrecerá figuras coleccionables llamadas FUNKO POPS inspiradas en personajes de series, peliculas, videojuegos, muñecos, anime o personajes famosos. </td>
       <td> Yasmin Adriana Orjuela Sanchez <br> Esteban Navas Valencia </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/angarciama/users-random-data-api.git" target="_blank"><b>Users Random Data API</b></a></td>
+      <td><a href="https://github.com/angarciama/funko-shop-front.git"><b>Funko Shop Frontend</b></a></td>
+      <td>Frontend para una página web e-commerce que ofrecerá figuras coleccionables llamadas FUNKO POPS inspiradas en personajes de series, peliculas, videojuegos, etc. Hace consumo del back <a href="https://github.com/angarciama/funko-shop-back.git"><b>Funko Shop Backend</b></a> </td>
+      <td> Individual </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/angarciama/users-random-data-api.git"><b>Users Random Data API</b></a></td>
       <td> App desarrollada en el framework Nuxt 3. Tiene el objetivo de mostrar un listado de usuarios y averiguar datos sobre el usuario que  se elija. Hace consumo de <a href="https://random-data-api.com/documentation"><b>Users Random Data API</b></a>
       </td>
       <td> Individual </td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/angarciamaing/aplicativoDeTareas.git" target="_blank"><b>Aplicativo de Tareas</b></a></td>
+      <td><a href="https://github.com/angarciamaing/aplicativoDeTareas.git"><b>Aplicativo de Tareas</b></a></td>
       <td> Aplicación logueable para asignar tareas. </td>
       <td> Mauricio Sierra </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/angarciamaing/mercadoLiebre_angarciamaing.git" target="_blank"><b>Mercado Liebre</b></a></td>
-      <td> Esta es una replica de Mercadolibre denominada MercadoLiebre. </td>
-      <td> Pablo Martín Robira </td>
     </tr>
   </tbody>
 </table>
